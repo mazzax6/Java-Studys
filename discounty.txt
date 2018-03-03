@@ -1,0 +1,9 @@
+Price in cents: 50
+Discount: 5
+Discount Price: 48
+Price in cents: 55
+Discount: 5
+Discount Price: 53
+Price in cents: 55
+Discount: 5
+Discount Price: 53
